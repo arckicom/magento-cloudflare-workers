@@ -13,3 +13,7 @@ main = "src/caching.js"
 # main = "src/image-optimization.js"
 # main = "src/maintenance-mode.js"
 # main = "src/api-cache.js"
+
+[[kv_namespaces]]
+binding = "MAGENTO_KV"         # JS binding name
+id = "690a18d714744d79b3162bff025c69b0"    # Get this from Cloudflare dashboard
