@@ -1,5 +1,5 @@
 name = "magento-worker"
-type = "javascript"
+# type = "javascript"
 
 account_id = "5cb000f66e410934794e2955a9cb17af"
 workers_dev = true
